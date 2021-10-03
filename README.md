@@ -19,8 +19,8 @@ To perform this analysis, we transformed the dataset by first creating a table w
 ![Unpaid Reviews](https://user-images.githubusercontent.com/85590155/135738902-4b00465e-1a0b-4a00-a013-8399c3e89f5d.PNG)
 
 ### Analysis
-- From the transformed dataset, there were **334** reviews from the Vine program.  Of these, **139** were 5 star reviews which equates to **41.62%**.
-- From the transformed dataset, there were **61614** reviews from the unpaid reviewers.  Of these, **32665** were 5 star reviews which equates to **53.02%**.
+- From the transformed dataset, there were **334** reviews from the Vine program.  Of these, **139** were 5-star reviews which equates to **41.62%**.
+- From the transformed dataset, there were **61614** reviews from the unpaid reviewers.  Of these, **32665** were 5-star reviews which equates to **53.02%**.
 
 ## Summary
-Based upon the data, there does not appear to be any positivity bias for reviews in the Vine program concerning sports products.  This can be concluded due to the percentage of 5 star reviews in the Vine program (41.62%) being less than the percentage of 5 star reviews outside the program (53.02%)  Since the sample data is much smaller for the Vine program, we could analyze additional data to support this statement.  4 star reviews are also positive reviews.  So we can include 4 stars in this analysis to determine if there is any change in the positivity bias for both datasets. 
+Based upon the data, there does not appear to be any positivity bias for reviews in the Vine program concerning sports products.  This can be concluded due to the percentage of 5-star reviews in the Vine program (41.62%) being less than the percentage of 5-star reviews outside the program (53.02%)  Since the sample data is much smaller for the Vine program, we could analyze additional data to support this statement.  4-star reviews are also positive reviews.  So we can include 4-stars in this analysis to determine if there is any change in the positivity bias for both datasets. 
